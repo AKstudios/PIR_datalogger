@@ -1,4 +1,4 @@
-# PIR datalogger
+# PIR data logger
 A motion/activity data logger that stores time-stamped data on a microSD card whenever there is motion within 3-5m. Approximate battery life: 1-2 years depending on LiPo battery used.
 
 <p align="center">
